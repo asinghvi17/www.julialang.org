@@ -18,6 +18,7 @@ UTC refers to [Coordinated Universal Time](https://en.wikipedia.org/wiki/Coordin
 | [Astronomy][juliaastro]          | `#astronomy`        | Fourth Thursday of each month at 12:00 ET | [Paul Barrett][Paul-Barrett]                                            |
 | [Dagger][dagger]                 | `#distributed`      | Every other Thursday at 10am ET          | [Julian Samaroo][Julian-Samaroo], [Krystian Guliński][Krystian-Guliński] |
 | [Documentation tooling][wg-docs] | `#documentation`    | Last Tuesday of every month at 18:00 UTC | [Morten Piibeleht][Morten-Piibeleht], [Fredrik Ekre][Fredrik-Ekre]       |
+| [Geospatial and Earth Sciences[geo] | `#geo`           | Middle Wednesday of every month, approximately | [Anshul Singhvi][Anshul-Singhvi], [Rafael Schouten][Rafael-Schouten] |
 | [GPU][gpu]                       | `#gpu`              | Every other Monday at 11am ET            | [Tim Besard][Tim-Besard], [Valentin Churavy][Valentin-Churavy]           |
 | High-performance computing (HPC) | `#hpc`              | Fourth Tuesday of each month at 2pm ET, and second Thursday of each month at 14:00 CET | [Valentin Churavy][Valentin-Churavy], [Mosè Giordano][Mosè-Giordano] |
 | [JuliaMolSim]                    | `#juliamolsim`      | Third Monday of each month at 12:15 ET   | [Rachel Kurchin][Rachel-Kurchin]                                         |
@@ -33,6 +34,7 @@ the `#ml-contributors` and `#repl` streams on the [Julia Zulip][zulip].
 [juliaastro]: https://github.com/JuliaAstro
 [dagger]: https://github.com/JuliaParallel/Dagger.jl
 [wg-docs]: https://github.com/JuliaDocs
+[geo]: https://github.com/JuliaGeo
 [gpu]: https://github.com/JuliaGPU
 [pkg]: https://github.com/JuliaLang/Pkg.jl
 [JuliaMolSim]: https://juliamolsim.org
@@ -68,6 +70,7 @@ Each of these groups is organized around a common area of interest with a commun
 [zulip]: https://julialang.zulipchat.com/
 
 [Alex-Arslan]: https://github.com/ararslan
+[Anshul-Singhvi]: https://github.com/asinghvi17
 [Avik-Sengupta]: https://github.com/aviks
 [Dilum-Aluthge]: https://github.com/DilumAluthge
 [Elliot-Saba]: https://github.com/staticfloat
@@ -83,6 +86,7 @@ Each of these groups is organized around a common area of interest with a commun
 [Morten-Piibeleht]: https://github.com/mortenpi
 [Mosè-Giordano]: https://github.com/giordano
 [Paul-Barrett]: https://github.com/barrettp
+[Rafael-Schouten]: https://github.com/rafaqz
 [Tim-Besard]: https://github.com/maleadt
 [Valentin-Churavy]: https://github.com/vchuravy
 [Kim-Auth]: https://github.com/kimauth
